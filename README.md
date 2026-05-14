@@ -40,7 +40,7 @@ index.html: Contains all HTML structure, Tailwind styling, and JavaScript logic.
 
 Clone the repository:
 
-git clone [https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git](https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git)
+git clone [https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git](https://github.com/Sky-paras/prompt-engineering-showcase.git)
 
 
 Open the file:
